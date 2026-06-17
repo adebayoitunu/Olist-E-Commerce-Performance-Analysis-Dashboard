@@ -103,6 +103,10 @@ This project demonstrates the following technical and analytical skills:
 
 ## Revenue Performance Insights
 
+
+<img width="730" height="431" alt="Screenshot 2026-06-11 203137" src="https://github.com/user-attachments/assets/65c6a2ae-2720-4018-b1e1-017b0a4bb344" />
+
+
 * The business generated approximately **R$15.84 million** in total revenue during the analysis period.
 * Revenue exhibited fluctuations over time, with noticeable peaks during certain months, indicating periods of stronger customer demand.
 * São Paulo (SP) contributed the highest share of revenue, making it the most important market for the business.
@@ -110,6 +114,10 @@ This project demonstrates the following technical and analytical skills:
 * Revenue concentration across states suggests opportunities for expanding sales in less represented regions.
 
 ## Product Performance Insights
+
+
+<img width="742" height="433" alt="Screenshot 2026-06-11 203213" src="https://github.com/user-attachments/assets/12755983-f459-4f2a-bf8b-2262cb9f6c44" />
+
 
 * Revenue was concentrated among a relatively small number of product categories.
 * The top-performing categories consistently generated the highest sales and contributed a significant share of total revenue.
@@ -119,6 +127,10 @@ This project demonstrates the following technical and analytical skills:
 
 ## Customer Insights
 
+
+<img width="745" height="342" alt="Screenshot 2026-06-11 203235" src="https://github.com/user-attachments/assets/0040c0c9-7ef3-4f2c-9007-cc2e34da5c94" />
+
+
 * The platform served approximately **96,000 customers** during the analysis period.
 * Customer spending varied considerably, with a small group of customers contributing disproportionately to revenue.
 * Most customers made only one purchase, while a much smaller percentage returned for additional orders.
@@ -126,6 +138,10 @@ This project demonstrates the following technical and analytical skills:
 * Increasing repeat purchases through loyalty programs and targeted promotions could improve long-term customer value.
 
 ## Delivery & Operations Insights
+
+
+<img width="732" height="426" alt="Screenshot 2026-06-11 203259" src="https://github.com/user-attachments/assets/c6873107-e7e5-47cc-a5df-27499838f85b" />
+
 
 * Orders were delivered in an average of approximately 9 days, demonstrating generally efficient order fulfillment.
 * More than 92% of orders were delivered on or before the estimated delivery date, indicating strong delivery performance.
@@ -143,29 +159,6 @@ Based on the analysis, the following recommendations are proposed:
 * Continue optimizing logistics operations to reduce delivery delays and improve customer satisfaction.
 * Leverage the popularity of credit card payments by offering flexible payment options and promotional incentives.
 * Monitor product and delivery performance continuously to support data-driven business decisions.
-
-## Dashboard
-
-The final Power BI dashboard was organized into four interactive pages:
-
-### Revenue Overview
-
-Provides insights into revenue trends, geographic performance, and customer payment preferences.
-
-
-### Product Performance
-
-Highlights top-performing categories, category revenue contribution, and category revenue trends.
-
-### Customer Insights
-
-Examines customer value and purchasing behavior, including customer retention patterns.
-
-### Delivery & Operations
-
-Evaluates delivery efficiency, order fulfillment performance, and regional delivery variations.
-
-The dashboard enables stakeholders to monitor key metrics and gain a comprehensive understanding of overall business performance.
 
 ## Conclusion
 
